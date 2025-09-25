@@ -1,5 +1,8 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
+Name:Abinaya A
+Reg:212223040003
+
 ## AIM:
 To create a warehouse application in salesforce.com
 
